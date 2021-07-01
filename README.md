@@ -4,7 +4,6 @@
 🏠 I’m currently living at HCM City, Vietnam 🇻🇳.<br/>
 👨‍💻 I’m currently working on Android, React Native and Flutter.<br/>
 🔭 Currently working as a mobile development lead at [Soundwise][soundwise].<br/>
-🌱 I’m currently learning English 🤦‍♂.<br/>
 ⚡ Available for Freelance projects.<br/>
 ☕️ I’m coffeer.<br/>
 
