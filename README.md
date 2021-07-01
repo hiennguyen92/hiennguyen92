@@ -29,6 +29,10 @@
 
 
 <a href="https://github.com/hiennguyen92">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Anurag's github stats" />
+</a>
+
+<a href="https://github.com/hiennguyen92">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hiennguyen92&layout=compact&theme=material-palenight" />
 </a>
 
