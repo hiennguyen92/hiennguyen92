@@ -25,16 +25,16 @@
 <code>[<img height="35" title="Kotlin" src="https://camo.githubusercontent.com/28f57c54a36d9362f6f20f6a011471a4b0ffc6ad1a6f7b74ced17e922f118fbd/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6b6f746c696e2e737667">][website]</code> 
 <code>[<img height="35" title="Javascript" src="https://camo.githubusercontent.com/9496882abd182958bcea4238ab44f7eb8928d7a4144c150f18f6c55ceb9b4490/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6a6176617363726970742e737667">][website]</code>
 <code>[<img height="35" title="ReactJs/React Native" src="https://camo.githubusercontent.com/98ce3f27aec475c03ad0441a7d4092f6b956814c7adc7f0049689dccedb82f1d/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f72656163742e737667">][website]</code>
-<code>[<img height="35" title="Dart" src="https://raw.githubusercontent.com/hiennguyen92/hiennguyen92/master/dart.png">][website]</code> 
+<code>[<img height="35" title="Dart" src="https://raw.githubusercontent.com/hiennguyen92/hiennguyen92/main/dart.png">][website]</code> 
 <code>[<img height="35" title="Flutter" src="https://camo.githubusercontent.com/750365ec8e10a2a4075ffb09fd644c3176c98638a7c45a79a8a40366a9d64f3a/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f666c75747465722e737667">][website]</code>
 <code>[<img height="35" title="NodeJs" src="https://camo.githubusercontent.com/ec29b6a09c99f020c13a844b85dcadeb3fdb1856c51ea466fc34970ae0cd441e/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f616d6265726672616d65776f726b2e737667">][website]</code> 
 <code>[<img height="35" title="GraphQL" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png">][website]</code> 
 <code>[<img height="35" title="Visual Studio Code" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png">][website]</code> 
-<code>[<img height="35" title="Android Studio" src="https://raw.githubusercontent.com/hiennguyen92/hiennguyen92/master/android-studio.png">][website]</code> 
-<code>[<img height="35" title="Xcode" src="https://raw.githubusercontent.com/hiennguyen92/hiennguyen92/master/xcode.png">][website]</code> 
+<code>[<img height="35" title="Android Studio" src="https://raw.githubusercontent.com/hiennguyen92/hiennguyen92/main/android-studio.png">][website]</code> 
+<code>[<img height="35" title="Xcode" src="https://raw.githubusercontent.com/hiennguyen92/hiennguyen92/main/xcode.png">][website]</code> 
 <code>[<img height="35" title="Git" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/git.svg">][website]</code> 
 <code>[<img height="35" title="Github" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/github.svg">][website]</code> 
-<code>[<img height="35" title="Terminal" src="https://raw.githubusercontent.com/hiennguyen92/hiennguyen92/master/terminal.png">][website]</code> 
+<code>[<img height="35" title="Terminal" src="https://raw.githubusercontent.com/hiennguyen92/hiennguyen92/main/terminal.png">][website]</code> 
 
 
 
