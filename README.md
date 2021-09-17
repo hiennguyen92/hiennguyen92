@@ -3,8 +3,8 @@
 
 🏠 I’m currently living at HCM City, Vietnam 🇻🇳.<br/>
 👨‍💻 I’m currently working on Android, React Native and Flutter.<br/>
-🔭 Currently working as a mobile development lead at [Soundwise][soundwise].<br/>
-⚡ Available for Freelance projects.<br/>
+🔭 Currently working as a freelancer(mobile development) at [Upwork][upwork].<br/>
+⚡ Available for freelance projects.<br/>
 ☕️ I’m coffeer.<br/>
 
 
@@ -64,3 +64,4 @@
 [linkedin]: https://linkedin.com/in/hiennv
 [gmail]: mailto:hien@hiennv.com
 [soundwise]: https://mysoundwise.com
+[upwork]: https://www.upwork.com/freelancers/~01e8865aa693b1478a
